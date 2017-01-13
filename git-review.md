@@ -29,6 +29,7 @@ Describe with your own words what the following command is doing or answer the q
 1. `git merge feature_branch`
 
 1. `git branch -d useless_branch`
+JSS: removes a branch which in all likelihood has become useless as it has been merged to the master
 
 1. `git log --oneline`
 
